@@ -50,4 +50,4 @@ ndex.js 파일의 프롬프트 항목을 변경하면 됩니다.
 
 ## 연락처
 
-질문이나 제안이 있으시면 openaiteacher@gmail.com 에 메일을 보내주세요.
+질문이나 제안이 있으시면 travelcheck2019@gmail.com 에 메일을 보내주세요.
